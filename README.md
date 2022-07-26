@@ -7,9 +7,9 @@ TLDR:
 - I like meeting people at conferences
 - I like meeting people when I’m on work trips
 
-Read more: https://gist.github.com/0xarthurxyz/6f8c4469131f7b405925b765d0b21b9c
+Read more about my [standing invitation](https://gist.github.com/0xarthurxyz/6f8c4469131f7b405925b765d0b21b9c) above 👆
 
 
-I take notes on various things (mostly notes-to-self). They are incomplete by default, but if you're interested I share them to learn in public. You can find all my notes here: https://gist.github.com/0xarthurxyz.
+I also take notes on various things (_mostly notes-to-self_). They are incomplete by default, but if you're interested I share them to learn in public. You can find all my notes here: https://gist.github.com/0xarthurxyz.
 
 <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=0xarthurxyz&show_icons=true&theme=tokyonight)](https://github.com/0xarthurxyz/github-readme-stats) -->
