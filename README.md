@@ -1,4 +1,6 @@
-👋 This is a standing invitation: If you want to talk crypto (in particular identity), I want to talk to you :)
+# [0xarthurxyz](https://github.com/0xarthurxyz) 👋 
+
+This is a standing invitation: If you want to talk crypto (in particular identity), I want to talk to you :)
 
 TLDR:
 - I like getting messages
