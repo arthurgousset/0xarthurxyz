@@ -1,4 +1,4 @@
-# [0xarthurxyz](https://github.com/0xarthurxyz) 👋 
+# 👋 
 
 { shipping products 🚢 }
 
